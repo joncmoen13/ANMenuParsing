@@ -1,0 +1,12 @@
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\NUnit3.TestAdapter.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\NUnit3.TestAdapter.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\nunit.engine.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\nunit.engine.api.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\Mono.Cecil.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\XmlParser.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\XmlParser.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\nunit.framework.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\nunit.framework.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Release\nunit.framework.xml
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\obj\Release\XmlParser.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\obj\Release\XmlParser.pdb

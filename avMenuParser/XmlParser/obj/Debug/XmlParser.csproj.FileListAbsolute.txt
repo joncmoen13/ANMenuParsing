@@ -1,0 +1,13 @@
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\NUnit3.TestAdapter.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\NUnit3.TestAdapter.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\nunit.engine.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\nunit.engine.api.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\Mono.Cecil.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\XmlParser.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\XmlParser.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\nunit.framework.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\nunit.framework.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\bin\Debug\nunit.framework.xml
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\obj\Debug\XmlParser.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\obj\Debug\XmlParser.pdb

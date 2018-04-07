@@ -1,0 +1,13 @@
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\avMenuParser.exe.config
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\NUnit3.TestAdapter.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\NUnit3.TestAdapter.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\nunit.engine.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\nunit.engine.api.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\Mono.Cecil.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\avMenuParser.exe
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\avMenuParser.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\nunit.framework.dll
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\nunit.framework.pdb
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\bin\Release\nunit.framework.xml
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\obj\Release\avMenuParser.exe
+c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser\obj\Release\avMenuParser.pdb
