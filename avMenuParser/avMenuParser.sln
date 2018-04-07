@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avMenuParser", "avMenuParse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser", "XmlParser\XmlParser.csproj", "{8AFA42DC-B0D2-4C1D-8F31-56D5268D2579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParserTests", "XmlParserTests\XmlParserTests.csproj", "{04F25B4D-55E2-4409-8DB1-C4BDD9AFC872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8AFA42DC-B0D2-4C1D-8F31-56D5268D2579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFA42DC-B0D2-4C1D-8F31-56D5268D2579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFA42DC-B0D2-4C1D-8F31-56D5268D2579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F25B4D-55E2-4409-8DB1-C4BDD9AFC872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F25B4D-55E2-4409-8DB1-C4BDD9AFC872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F25B4D-55E2-4409-8DB1-C4BDD9AFC872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F25B4D-55E2-4409-8DB1-C4BDD9AFC872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

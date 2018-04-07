@@ -1,12 +1,12 @@
 ﻿using System;
 using System.IO;
-using XmlParser;
+using Parser = XmlParser.XmlParser;
 
 namespace avMenuParser
 {
-	class avMenuParser
+	internal class AvMenuParser
 	{
-		static void Main(string[] args)
+		private static void Main(string[] args)
 		{
 			if(args.Length < 2)
 			{
@@ -24,10 +24,10 @@ namespace avMenuParser
 				return;
 			}
 
-			var displayString = XmlParser.XmlParser.ParseXml(menuFilePath, pathToMatch);
+			var displayString = Parser.ParseXml(menuFilePath, pathToMatch);
 
-			//placeholder
-			WriteError("No errors");
+			Console.WriteLine(displayString);
+			WriteError("Success");
 			Console.ReadLine();
 		}
 
