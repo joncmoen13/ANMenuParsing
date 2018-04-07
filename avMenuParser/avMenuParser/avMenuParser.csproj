@@ -63,6 +63,12 @@
     <Content Include="Documentation\SchedAero Menu.txt" />
     <Content Include="Documentation\Wyvern Menu.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XmlParser\XmlParser.csproj">
+      <Project>{8afa42dc-b0d2-4c1d-8f31-56d5268d2579}</Project>
+      <Name>XmlParser</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

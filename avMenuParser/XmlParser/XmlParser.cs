@@ -8,6 +8,10 @@ namespace XmlParser
 {
 	public class XmlParser
 	{
+		public static string ParseXml(string filePath, string pathToFind)
+		{
 
+			return string.Empty;
+		}
 	}
 }
