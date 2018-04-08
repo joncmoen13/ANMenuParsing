@@ -1,0 +1,12 @@
+﻿FirstTestItem, /test1.aspx
+	TestSubItem1, FirstTestItem/Tests/SubItems/test1.aspx
+	TestSubItem2, FirstTestItem/Tests/SubItems/test2.aspx
+	TestSubItem3, FirstTestItem/Tests/SubItems/test3.aspx
+SecondTestItem, /test2.aspx ACTIVE
+	TestSubItem4, SecondTestItem/Tests/SubItems/test4.aspx
+	TestSubItem5, SecondTestItem/Tests/SubItems/test5.aspx
+	TestSubItem6, SecondTestItem/Tests/SubItems/test6.aspx ACTIVE
+ThirdTestItem, /test3.aspx
+	TestSubItem7, ThirdTestItem/Tests/SubItems/test7.aspx
+	TestSubItem8, ThirdTestItem/Tests/SubItems/test8.aspx
+	TestSubItem9, ThirdTestItem/Tests/SubItems/test9.aspx

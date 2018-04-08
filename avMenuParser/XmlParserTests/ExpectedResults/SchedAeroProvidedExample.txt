@@ -1,0 +1,9 @@
+﻿Home, /Default.aspx
+Trips, /Requests/Quotes/CreateQuote.aspx ACTIVE
+	Create Quote, /Requests/Quotes/CreateQuote.aspx
+	Open Quotes, /Requests/OpenQuotes.aspx ACTIVE
+	Scheduled Trips, /Requests/Trips/ScheduledTrips.aspx
+Company, /mvc/company/view
+	Customers, /customers/customers.aspx
+	Pilots, /pilots/pilots.aspx
+	Aircraft, /aircraft/Aircraft.aspx
