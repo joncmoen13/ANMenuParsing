@@ -1,0 +1,14 @@
+﻿Home, /mvc/wyvern/home
+	News, /mvc/wyvern/home/news
+	Directory, /Directory/Directory.aspx
+		Favorites, /TWR/Directory.aspx
+		Search Aircraft, /TWR/AircraftSearch.aspx
+PASS, /PASS/GeneratePASS.aspx
+	Create New, /PASS/GeneratePASS.aspx
+	Sent Requests, /PASS/YourPASSReports.aspx
+	Received Requests, /PASS/Pending/PendingRequests.aspx
+Company, /mvc/company/view ACTIVE
+	Users, /mvc/account/list
+	Aircraft, /aircraft/fleet.aspx ACTIVE
+	Insurance, /insurance/policies.aspx
+	Certificate, /Certificates/Certificates.aspx

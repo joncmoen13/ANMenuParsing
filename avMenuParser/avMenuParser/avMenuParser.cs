@@ -6,11 +6,15 @@ namespace avMenuParser
 {
 	internal class AvMenuParser
 	{
+		/// <summary>
+		/// Console App to parse xml into a display of menu items.
+		/// </summary>
+		/// <param name="args"></param>
 		private static void Main(string[] args)
 		{
 			if(args.Length < 2)
 			{
-				WriteError("Arguments missing, please provide the correct arguments.");
+				WriteAndLogError("Arguments missing, please provide the correct arguments.");
 				Console.ReadLine();
 				return;
 			}
@@ -27,10 +31,16 @@ namespace avMenuParser
 			var displayString = Parser.ParseXml(menuFilePath, pathToMatch);
 
 			Console.WriteLine(displayString);
-			WriteError("Success");
+			WriteAndLogError("");
 			Console.ReadLine();
 		}
 
+		/// <summary>
+		/// Determines if there are any issues with the argument inputs
+		/// </summary>
+		/// <param name="menuFilePath"></param>
+		/// <param name="pathToMatch"></param>
+		/// <returns>true if there are any input errors, false otherwise</returns>
 		private static bool HasInputErrors(string menuFilePath, string pathToMatch)
 		{
 			var hasErrors = false;
@@ -38,31 +48,39 @@ namespace avMenuParser
 
 			if (string.IsNullOrEmpty(menuFilePath))
 			{
-				WriteError("No file path");
+				WriteAndLogError("No file path");
 				filePath = "Entered file path";
 				hasErrors = true;
 			}
 
 			if (string.IsNullOrEmpty(pathToMatch))
 			{
-				WriteError("No path for matching");
+				WriteAndLogError("No path for matching");
 				hasErrors = true;
 			}
 
 			if (!File.Exists(menuFilePath))
 			{
-				WriteError(filePath + " does not exist, please provide the correct path to your file.");
+				WriteAndLogError(filePath + " does not exist, please provide the correct path to your file.");
 				hasErrors = true;
 			}
 
 			return hasErrors;
 		}
 
-		private static void WriteError(string error)
+		/// <summary>
+		/// Writes the error to console and records the error in a log
+		/// </summary>
+		/// <param name="error"></param>
+		private static void WriteAndLogError(string error)
 		{
+			if (!string.IsNullOrEmpty(error))
+				Console.WriteLine(error);
+			else
+				error = "Success!";
+
 			var logError = DateTime.Now + ": " + error + '\n';
 			File.AppendAllText("log.txt", logError);
-			Console.WriteLine(error);
 		}
 	}
 }

@@ -13,6 +13,5 @@ c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\ob
 c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\XmlParser\obj\Debug\XmlParser.pdb
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\XmlParser\bin\Debug\XmlParser.dll
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\XmlParser\bin\Debug\XmlParser.pdb
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\XmlParser\obj\Debug\XmlParser.dll
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\XmlParser\obj\Debug\XmlParser.pdb

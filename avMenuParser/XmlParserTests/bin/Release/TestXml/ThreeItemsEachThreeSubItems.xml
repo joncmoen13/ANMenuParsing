@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+	<item>
+		<displayName>FirstTestItem</displayName>
+		<path value="/test1.aspx"/>
+		<subMenu>
+			<item>
+				<displayName>TestSubItem1</displayName>
+				<path value="FirstTestItem/Tests/SubItems/test1.aspx"/>
+			</item>
+			<item>
+				<displayName>TestSubItem2</displayName>
+				<path value="FirstTestItem/Tests/SubItems/test2.aspx"/>
+			</item>
+			<item>
+				<displayName>TestSubItem3</displayName>
+				<path value="FirstTestItem/Tests/SubItems/test3.aspx"/>
+			</item>
+		</subMenu>
+	</item>
+	<item>
+		<displayName>SecondTestItem</displayName>
+		<path value="/test2.aspx"/>
+		<subMenu>
+			<item>
+				<displayName>TestSubItem4</displayName>
+				<path value="SecondTestItem/Tests/SubItems/test4.aspx"/>
+			</item>
+			<item>
+				<displayName>TestSubItem5</displayName>
+				<path value="SecondTestItem/Tests/SubItems/test5.aspx"/>
+			</item>
+			<item>
+				<displayName>TestSubItem6</displayName>
+				<path value="SecondTestItem/Tests/SubItems/test6.aspx"/>
+			</item>
+		</subMenu>
+	</item>
+	<item>
+		<displayName>ThirdTestItem</displayName>
+		<path value="/test3.aspx"/>
+		<subMenu>
+			<item>
+				<displayName>TestSubItem7</displayName>
+				<path value="ThirdTestItem/Tests/SubItems/test7.aspx"/>
+			</item>
+			<item>
+				<displayName>TestSubItem8</displayName>
+				<path value="ThirdTestItem/Tests/SubItems/test8.aspx"/>
+			</item>
+			<item>
+				<displayName>TestSubItem9</displayName>
+				<path value="ThirdTestItem/Tests/SubItems/test9.aspx"/>
+			</item>
+		</subMenu>
+	</item>
+</menu>

@@ -14,16 +14,8 @@ c:\users\docmoen\documents\visual studio 2015\Projects\avMenuParser\avMenuParser
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\avMenuParser.exe.config
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\obj\Release\avMenuParser.exe
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\obj\Release\avMenuParser.pdb
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\NUnit3.TestAdapter.dll
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\NUnit3.TestAdapter.pdb
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\nunit.engine.dll
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\nunit.engine.api.dll
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\Mono.Cecil.dll
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\avMenuParser.exe
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\avMenuParser.pdb
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\nunit.framework.dll
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\XmlParser.dll
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\XmlParser.pdb
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\nunit.framework.pdb
-C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\bin\Release\nunit.framework.xml
 C:\Users\DocMoen\Source\Repos\avMenuParsing\avMenuParser\avMenuParser\obj\Release\avMenuParser.csprojResolveAssemblyReference.cache
